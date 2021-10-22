@@ -48,7 +48,7 @@
 
 .social_info {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   width: 400px;
   background-color: #fff;
   min-height: 100px;
@@ -62,4 +62,5 @@
   flex-direction: column;
   padding: 20px;
   text-align: center;
+  width: 30%;
 }
